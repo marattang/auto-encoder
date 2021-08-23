@@ -74,5 +74,4 @@ for row_num, row in enumerate(axes):
         ax.grid(False)
         ax.set_xticks([])
         ax.set_yticks([])
-
 plt.show()
